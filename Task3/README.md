@@ -1,0 +1,1 @@
+This project is a practical, hands-on programming assignment focused on data cleaning, manipulation, and structured exploration using Python's pandas library. Instead of jumping straight into advanced Exploratory Data Analysis (EDA) or predictive machine learning, the core objective here is to master the fundamental data mechanics required to handle real-world, messy datasets.
